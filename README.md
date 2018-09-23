@@ -8,3 +8,5 @@
 
 * Find Max Subarray:Divide-Conquer방식으로 배열중 최대값을 같은 서브배열의 값을 찾아본다.
  
+
+* Heapsort : recursive call 를 사용해 heapify , heapsort를 구현해본다.  

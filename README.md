@@ -49,3 +49,8 @@
 * [연속합](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%97%B0%EC%86%8D%ED%95%A9.cpp):1912번
 
 * [계단오르기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.cpp):2579번 
+
+# 그래프
+* [dfs&bfs](https://github.com/ParkJiSu28/Algorithm/blob/master/dfs_bfs.cpp):1260번
+
+* [연결요소](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C.cpp) :11724번

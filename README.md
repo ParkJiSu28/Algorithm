@@ -13,7 +13,11 @@
 
 
 
-* [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기. 
+* [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기.
+ 
+# 완전탐사
+* [소풍](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp,"소풍"):알고스팟
+* [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp,"Board"):알고스팟
 
 #  스택&큐
 

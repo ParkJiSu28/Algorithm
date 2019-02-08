@@ -11,13 +11,16 @@
 
 * [Heapsort](https://github.com/ParkJiSu28/Algorithm/blob/master/heapsort.cpp "heap") : recursive call 를 사용해 heapify , heapsort를 구현해본다. 
 
+* [quicksort]
+(https://github.com/ParkJiSu28/Algorithm/blob/master/quicksort.cpp "quick"): 마지막을 pivot으로 알고리즘을 구현
 
 
 * [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기.
  
 # 완전탐사
-* [소풍](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp,"소풍"):알고스팟
-* [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp,"Board"):알고스팟
+* [소풍]
+(https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp "소풍"):알고스팟
+* [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp "알고스팟"):알고스팟
 
 #  스택&큐
 

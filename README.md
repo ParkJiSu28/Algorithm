@@ -4,6 +4,15 @@
 
 ## 대표적인 알고리즘을 구현해본다.
 
+
+* [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기.
+ 
+# 완전탐사
+* [소풍](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp "소풍"):알고스팟
+* [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp "알고스팟"):알고스팟
+
+# 분할정복
+* [율타리 잘라내기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9A%B8%ED%83%80%EB%A6%AC%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0.cpp) : 알고스팟(fense)
 * [merge sorting](https://github.com/ParkJiSu28/Algorithm/blob/master/Merge_sorting.cpp "merge"):합병정렬 대표적인 Divide-Conquer로 recursive call을 사용해 구현해본다.
 
 * [Find Max Subarray](https://github.com/ParkJiSu28/Algorithm/blob/master/max_subarray.cpp "find"):Divide-Conquer방식으로 배열중 최대값을 같은 서브배열의 값을 찾아본다.
@@ -14,13 +23,6 @@
 
 
 * [quicksort](https://github.com/ParkJiSu28/Algorithm/blob/master/quicksort.cpp)  마지막을 pivot으로 알고리즘을 구현
-
-
-* [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기.
- 
-# 완전탐사
-* [소풍](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp "소풍"):알고스팟
-* [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp "알고스팟"):알고스팟
 
 #  스택&큐
 
@@ -68,7 +70,7 @@
 
 * [순열사이클](https://github.com/ParkJiSu28/Algorithm/blob/master/순열사이클.cpp) : 10451번
 
- *  [반복수열](https://github.com/ParkJiSu28/Algorithm/blob/master/반복수열.cpp):2331번
+ * [반복수열](https://github.com/ParkJiSu28/Algorithm/blob/master/반복수열.cpp):2331번
 
 * [텀프로젝트](https://github.com/ParkJiSu28/Algorithm/blob/master/텀프로젝트.cpp) : 9466번
 

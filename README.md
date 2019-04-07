@@ -78,10 +78,10 @@
 
 * [미로탐색](https://github.com/ParkJiSu28/Algorithm/blob/master/미로탐색.cpp) : 2178번
 
-* [DICTIONARY]():알고스팟
+* [DICTIONARY](https://github.com/ParkJiSu28/Algorithm/blob/master/DICTIONARY.cpp):알고스팟
 
-* [WORDCHAIN]():알고스팟
+* [WORDCHAIN](https://github.com/ParkJiSu28/Algorithm/blob/master/WORDCHAIN.cpp):알고스팟
 
-* [SORTGAME]():알고스팟
+* [SORTGAME](https://github.com/ParkJiSu28/Algorithm/blob/master/SORTGAME.cpp):알고스팟
 
-* [GALLERY]():알고스팟
+* [GALLERY](https://github.com/ParkJiSu28/Algorithm/blob/master/GALLERY.cpp):알고스팟

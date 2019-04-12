@@ -78,6 +78,8 @@
 
 *  [섬의개수](https://github.com/ParkJiSu28/Algorithm/blob/master/섬의개수.cpp) : 4963번
 
+* [섬의갯수_dfs](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%84%AC%EC%9D%98%EA%B0%AF%EC%88%98_dfs.cpp):4963번 dfs수정
+
 * [미로탐색](https://github.com/ParkJiSu28/Algorithm/blob/master/미로탐색.cpp) : 2178번
 
 * [DICTIONARY](https://github.com/ParkJiSu28/Algorithm/blob/master/DICTIONARY.cpp):알고스팟
@@ -87,3 +89,9 @@
 * [SORTGAME](https://github.com/ParkJiSu28/Algorithm/blob/master/SORTGAME.cpp):알고스팟
 
 * [GALLERY](https://github.com/ParkJiSu28/Algorithm/blob/master/GALLERY.cpp):알고스팟
+
+* [토마토](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%86%A0%EB%A7%88%ED%86%A0.cpp):7569번
+
+* [다리만들기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%8B%A4%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp):2146번
+
+

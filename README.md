@@ -96,4 +96,9 @@
 
 * [아기상어](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.cpp):16236번
  
-* [나무재테크](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%82%98%EB%AC%B4%EC%9E%AC%ED%85%8C%ED%81%AC.cpp):16235번
+* [나무재테크](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%82%98%EB%AC%B4%EC%9E%AC%ED%85%8C%ED%81%AC.cpp
+):16235번
+
+* [인구이동](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.cpp):16234번
+
+* [치킨배달](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp):15686번

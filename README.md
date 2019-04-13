@@ -95,3 +95,5 @@
 * [다리만들기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%8B%A4%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp):2146번
 
 * [아기상어](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.cpp):16236번
+ 
+* [나무재테크](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%82%98%EB%AC%B4%EC%9E%AC%ED%85%8C%ED%81%AC.cpp):16235번

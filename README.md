@@ -11,6 +11,9 @@
 * [소풍](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp "소풍"):알고스팟
 * [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp "알고스팟"):알고스팟
 
+* [JUMPGAME(완전탐사)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89ver).cpp):알고스팟 JUMPGAME
+
+
 # 분할정복
 * [율타리 잘라내기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9A%B8%ED%83%80%EB%A6%AC%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0.cpp) : 알고스팟(fense)
 * [merge sorting](https://github.com/ParkJiSu28/Algorithm/blob/master/Merge_sorting.cpp "merge"):합병정렬 대표적인 Divide-Conquer로 recursive call을 사용해 구현해본다.
@@ -31,6 +34,8 @@
 
 
 # 다이나믹프로그래밍
+* [JUMPGAME(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(DP%20ver).cpp) :Algospot JUMPGAME
+
 * [1로만들기](https://github.com/ParkJiSu28/Algorithm/blob/master/1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp "make") :1463번
 * [1,2,3더하기](https://github.com/ParkJiSu28/Algorithm/blob/master/1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B0.cpp "9095"):9095번
 

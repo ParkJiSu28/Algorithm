@@ -11,6 +11,8 @@
 * [소풍](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%86%8C%ED%92%8D.cpp "소풍"):알고스팟
 * [BOARDCOVER](https://github.com/ParkJiSu28/Algorithm/blob/master/BOARDCOVER.cpp "알고스팟"):알고스팟
 
+* [BOGGLE(완전탐사)](https://github.com/ParkJiSu28/Algorithm/blob/master/BOGGLE(%EC%99%84%EC%A0%84%ED%83%90%EC%82%AC).cpp):알고스팟
+
 * [JUMPGAME(완전탐사)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89ver).cpp):알고스팟 JUMPGAME
 
 
@@ -34,6 +36,7 @@
 
 
 # 다이나믹프로그래밍
+* [BOGGLE(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/BOGGLE(DP%20ver).cpp):AlogSpot
 * [JUMPGAME(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(DP%20ver).cpp) :Algospot JUMPGAME
 
 * [1로만들기](https://github.com/ParkJiSu28/Algorithm/blob/master/1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp "make") :1463번

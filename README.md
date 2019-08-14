@@ -15,6 +15,10 @@
 
 * [JUMPGAME(완전탐사)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89ver).cpp):알고스팟 JUMPGAME
 
+* [한수](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%95%9C%EC%88%98.cpp):1065번
+
+* [일곱난쟁이](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.cpp):2309번
+
 
 # 분할정복
 * [율타리 잘라내기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9A%B8%ED%83%80%EB%A6%AC%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0.cpp) : 알고스팟(fense)
@@ -36,7 +40,11 @@
 
 
 # 다이나믹프로그래밍
-* [BOGGLE(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/BOGGLE(DP%20ver).cpp):AlogSpot
+* [01타일](https://github.com/ParkJiSu28/Algorithm/blob/master/타일.cpp):1904번
+
+*[파도반수열](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%8C%8C%EB%8F%84%EB%B0%98%EC%88%98%EC%97%B4.cpp):9461번
+
+* [BOGGLE(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/BOGGLE(DP%20ver).cpp):AlgoSpot
 * [JUMPGAME(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(DP%20ver).cpp) :Algospot JUMPGAME
 
 * [1로만들기](https://github.com/ParkJiSu28/Algorithm/blob/master/1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp "make") :1463번

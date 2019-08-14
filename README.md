@@ -42,7 +42,7 @@
 # 다이나믹프로그래밍
 * [01타일](https://github.com/ParkJiSu28/Algorithm/blob/master/타일.cpp):1904번
 
-*[파도반수열](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%8C%8C%EB%8F%84%EB%B0%98%EC%88%98%EC%97%B4.cpp):9461번
+* [파도반수열](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%8C%8C%EB%8F%84%EB%B0%98%EC%88%98%EC%97%B4.cpp):9461번
 
 * [BOGGLE(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/BOGGLE(DP%20ver).cpp):AlgoSpot
 * [JUMPGAME(DP ver)](https://github.com/ParkJiSu28/Algorithm/blob/master/jumpgame(DP%20ver).cpp) :Algospot JUMPGAME

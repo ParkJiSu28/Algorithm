@@ -19,6 +19,11 @@
 
 * [일곱난쟁이](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.cpp):2309번
 
+* [NQueen](https://github.com/ParkJiSu28/Algorithm/blob/master/NQueen.cpp):3334번
+
+* [알파벳](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%95%8C%ED%8C%8C%EB%B2%B3.cpp):1987번
+
+* [스도쿠](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp):2580번
 
 # 분할정복
 * [율타리 잘라내기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9A%B8%ED%83%80%EB%A6%AC%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0.cpp) : 알고스팟(fense)

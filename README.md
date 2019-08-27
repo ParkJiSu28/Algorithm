@@ -25,6 +25,8 @@
 
 * [스도쿠](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp):2580번
 
+* [페그솔리테어](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%8E%98%EA%B7%B8%EC%86%94%ED%85%8C%EB%A6%AC%EC%96%B4.cpp):9207번
+
 # 분할정복
 * [율타리 잘라내기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9A%B8%ED%83%80%EB%A6%AC%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0.cpp) : 알고스팟(fense)
 * [merge sorting](https://github.com/ParkJiSu28/Algorithm/blob/master/Merge_sorting.cpp "merge"):합병정렬 대표적인 Divide-Conquer로 recursive call을 사용해 구현해본다.

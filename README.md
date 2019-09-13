@@ -4,6 +4,14 @@
 
 ## 대표적인 알고리즘을 구현해본다.
 
+# 시뮬레이션
+
+* [주사위굴리기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.cpp):14499번
+
+* [톱니바퀴](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.cpp):14891번
+
+* [로봇청소기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.cpp):14503번
+
 
 * [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기.
  

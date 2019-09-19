@@ -12,6 +12,11 @@
 
 * [로봇청소기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.cpp):14503번
 
+* [뱀(python)](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%B1%80.py):3190번
+
+* [뱀](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%B1%80.cpp):3190번
+
+* [드래곤커브(python)](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%93%9C%EB%9E%98%EA%B3%A4%EC%BB%A4%EB%B8%8C.py):15685번
 
 * [Alphabet](https://github.com/ParkJiSu28/Algorithm/blob/master/Alphabet_lower_upper_space_number_count.cpp "alphabet"): 대문자 소문자 공백 숫자 갯수 새기.
  

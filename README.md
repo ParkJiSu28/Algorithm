@@ -3,6 +3,15 @@
 
 
 ## 대표적인 알고리즘을 구현해본다.
+# 문자열처리
+
+* [그룹단어체커](https://github.com/ParkJiSu28/Algorithm/blob/master/%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%EC%BB%A4.cpp):1316번
+
+* [크로아티아 알파벳](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%EC%95%8C%ED%8C%8C%EB%B2%B3.cpp):2941번
+
+* [방번호](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%B0%A9%EB%B2%88%ED%98%B8.cpp):1475번
+
+* [문자열폭발](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C.cpp):9935번 
 
 # 시뮬레이션
 

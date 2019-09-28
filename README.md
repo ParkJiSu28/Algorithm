@@ -11,7 +11,10 @@
 
 * [방번호](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%B0%A9%EB%B2%88%ED%98%B8.cpp):1475번
 
-* [문자열폭발](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C.cpp):9935번 
+* [문자열폭발](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C.cpp):9935번 String Class로 풀기 
+
+* [문자열폭발](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C(Use%20Stack).cpp): Stack으로 풀기
+
 
 # 시뮬레이션
 
@@ -150,3 +153,5 @@
 * [인구이동](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.cpp):16234번
 
 * [치킨배달](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp):15686번
+
+* [연구소](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%97%B0%EA%B5%AC%EC%86%8C.cpp):14502번

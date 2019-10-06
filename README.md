@@ -70,6 +70,7 @@
 * [Josephus](https://github.com/ParkJiSu28/Algorithm/blob/master/josephus.cpp "조세퍼스") : 조세퍼스 순열 queue 사용해서 구현 1158번
 * [쇠막대기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.cpp "10799") :stack 사용  10799번
 
+* [프린트큐](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%94%84%EB%A6%B0%ED%8A%B8%ED%81%90.cpp#L7): 1996번
 
 # 다이나믹프로그래밍
 * [01타일](https://github.com/ParkJiSu28/Algorithm/blob/master/타일.cpp):1904번

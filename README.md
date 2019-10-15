@@ -16,6 +16,13 @@
 * [문자열폭발](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C(Use%20Stack).cpp): Stack으로 풀기
 
 
+# 순열
+
+* [순열STL](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%88%9C%EC%97%B4.cpp):next_permutation , prev_permutation, Combination  
+
+* [모든순열](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AA%A8%EB%93%A0%EC%88%9C%EC%97%B4.cpp):109474번
+
+
 # 시뮬레이션
 
 * [주사위굴리기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.cpp):14499번

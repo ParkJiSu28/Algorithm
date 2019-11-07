@@ -22,6 +22,11 @@
 
 * [모든순열](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AA%A8%EB%93%A0%EC%88%9C%EC%97%B4.cpp):109474번
 
+# 위상정렬
+
+* [줄세우기]():dfs
+
+* [문제집]():1766번 (우선순위큐) ,indegree  
 
 # 시뮬레이션
 

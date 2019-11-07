@@ -24,9 +24,9 @@
 
 # 위상정렬
 
-* [줄세우기]():dfs
+* [줄세우기](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.cpp):1681번 dfs
 
-* [문제집]():1766번 (우선순위큐) ,indegree  
+* [문제집](https://github.com/ParkJiSu28/Algorithm/blob/master/%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp):1766번 (우선순위큐) ,indegree  
 
 # 시뮬레이션
 

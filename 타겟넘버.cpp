@@ -1,49 +1,21 @@
 #include <string>
-#include<string.h>
 #include <vector>
 #include<iostream>
-#include<algorithm>
 using namespace std;
-#include<queue>
-int answer;
-vector<int>s;
+int total;
 
-
-int solution(vector<int> numbers, int target) {
-	queue<int>q;
-	q.push(numbers[0]);
-	q.push(-numbers[0]);
-	int cnt = 1;
-	while (!q.empty()) {
-		if (q.size() >= pow(numbers.size(), 2)) {
-			while (!q.empty()) {
-				if (target == q.front())
-					answer++;
-				q.pop();
-			}
-			break;
-		}
-		int temp = q.front();
-		q.pop();
-		if (cnt <=  pow(numbers.size(), 2)) {
-			int mo = cnt%numbers.size();
-			int plus = temp + numbers[mo];
-			int minus = temp - numbers[mo];
-			q.push(plus);
-			q.push(minus);
-		}
-		cnt++;
+void dfs(vector<int>numbers, int target, int sum, int n) {
+	if (n >= numbers.size()) {
+		if (sum == target)total++;
+		return;
 	}
-	
-	return answer;
+	dfs(numbers, target, sum + numbers[n], n + 1);
+	dfs(numbers, target, sum - numbers[n], n + 1);
 }
+int solution(vector<int> numbers, int target) {
+	dfs(numbers, target, numbers[0], 1);
+	dfs(numbers, target, -numbers[0], 1);
 
-
-int main() {
-	for (int i = 0; i < 3; i++) {
-		int tem;
-		cin >> tem;
-		s.push_back(tem);
-	}
-	cout<<solution(s, 1);
+	int answer = total;
+	return answer;
 }

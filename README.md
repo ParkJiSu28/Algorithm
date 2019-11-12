@@ -169,4 +169,4 @@
 
 * [연구소](https://github.com/ParkJiSu28/Algorithm/blob/master/%EC%97%B0%EA%B5%AC%EC%86%8C.cpp):14502번
 
-* [타겟게임]():프로그래머스
+* [타겟게임](https://github.com/ParkJiSu28/Algorithm/blob/master/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.cpp) :프로그래머스
